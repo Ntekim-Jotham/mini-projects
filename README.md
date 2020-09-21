@@ -1,9 +1,10 @@
 # mini-projects
 
 
-Run
-   npm install to install 
+Run the below command:
+
+   npm install 
    
-the neccessary dependacies...
+to install the neccessary dependacies for each app...
 
 Check out how to start a Node and Angular app online to view the app.
